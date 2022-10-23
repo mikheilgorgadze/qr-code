@@ -1,2 +1,3 @@
 # qr-code
-Simple QR Code static webpage
+This is a simple QR Code static webpage.
+This is my first project within bitcamp course. 
